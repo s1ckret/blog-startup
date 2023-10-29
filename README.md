@@ -10,10 +10,8 @@ This blog is about my startup ideas, progress, and my journey. It also contains 
 
 ### My ideas
 
-
-
-### Incubator programs
-
-
+* [family-archive](ideas/family-archive/ "mention")
 
 ### Startup events
+
+* [2023-q4-startup-school-by-startup-depot-family-archive](events/2023-q4-startup-school-by-startup-depot-family-archive/ "mention")
