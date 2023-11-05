@@ -12,11 +12,13 @@
   * [Startup School tasks](ideas/family-archive/startup-school-tasks/README.md)
     * [1. Defining business idea](ideas/family-archive/startup-school-tasks/1.-defining-business-idea.md)
     * [2. Market analysis & ICP](ideas/family-archive/startup-school-tasks/2.-market-analysis-and-icp.md)
+    * [3. Customer development](ideas/family-archive/startup-school-tasks/3.-customer-development.md)
 
 ## 🤝 Events
 
 * [🌠 2023 Q4 - Startup School by Startup Depot - Family Archive](events/2023-q4-startup-school-by-startup-depot-family-archive/README.md)
-  * [16.10.2023 - Selection week](events/2023-q4-startup-school-by-startup-depot-family-archive/16.10.2023-selection-week.md)
-  * [23.10.2023 - Second intro](events/2023-q4-startup-school-by-startup-depot-family-archive/23.10.2023-second-intro.md)
-  * [26.10.2023 - Defining business idea](events/2023-q4-startup-school-by-startup-depot-family-archive/26.10.2023-defining-business-idea.md)
-  * [27.10.2023 - Market analysis & ICP](events/2023-q4-startup-school-by-startup-depot-family-archive/27.10.2023-market-analysis-and-icp.md)
+  * [2023.10.16 - Selection week](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.16-selection-week.md)
+  * [2023.10.23 - Second intro](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.23-second-intro.md)
+  * [2023.10.26 - Defining business idea](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.26-defining-business-idea.md)
+  * [2023.10.27 - Market analysis & ICP](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.27-market-analysis-and-icp.md)
+  * [2023.11.02 - Customer development](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.11.02-customer-development.md)
