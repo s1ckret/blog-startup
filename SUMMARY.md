@@ -17,6 +17,7 @@
 ## 🤝 Events
 
 * [🌠 2023 Q4 - Startup School by Startup Depot - Family Archive](events/2023-q4-startup-school-by-startup-depot-family-archive/README.md)
+  * [SSbSD 23 autumn: 12 startups](events/2023-q4-startup-school-by-startup-depot-family-archive/ssbsd-23-autumn-12-startups.md)
   * [2023.10.16 - Selection week](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.16-selection-week.md)
   * [2023.10.23 - Second intro](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.23-second-intro.md)
   * [2023.10.26 - Defining business idea](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.26-defining-business-idea.md)
