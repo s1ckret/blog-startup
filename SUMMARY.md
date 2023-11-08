@@ -22,3 +22,7 @@
   * [2023.10.26 - Defining business idea](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.26-defining-business-idea.md)
   * [2023.10.27 - Market analysis & ICP](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.10.27-market-analysis-and-icp.md)
   * [2023.11.02 - Customer development](events/2023-q4-startup-school-by-startup-depot-family-archive/2023.11.02-customer-development.md)
+
+## 🛠 Tools
+
+* [🛠 Useful resources](tools/useful-resources.md)
