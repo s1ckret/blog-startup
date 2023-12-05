@@ -25,3 +25,5 @@
 * [FounderResources](https://www.founderresources.io/) - a collection of useful tools
 * [Microns](https://www.microns.io/) - Micro Startups For Sale
 * [Лекція "Як не прогепати свій стартап | Женя Гусаров"](https://youtu.be/46yHULT8gPc?si=Hu-V0eSW3uIuer3d)
+* [Paul Graham Blog](http://www.paulgraham.com/articles.html)
+* [A Smart Bear](https://longform.asmartbear.com/)
