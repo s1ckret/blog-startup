@@ -2,7 +2,7 @@
 
 ### About
 
-This page describes various pivot ideas on [.](./ "mention") initial idea.
+This page describes various pivot ideas on [family-archive](../family-archive/ "mention") initial idea.
 
 ### Pivot to broader audience
 

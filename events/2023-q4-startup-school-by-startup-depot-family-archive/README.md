@@ -6,7 +6,7 @@ description: A free pre-acceleration program for very early stage startups
 
 ### About
 
-This event is a free pre-acceleration program for very early stage startups which takes place every quarter. I choose [Family Archive](../../ideas/family-archive-closed/) idea for this event as I have been working on it for 3 month already.
+This event is a free pre-acceleration program for very early stage startups which takes place every quarter. I choose [Family Archive](../../ideas/family-archive/) idea for this event as I have been working on it for 3 month already.
 
 ### Links
 

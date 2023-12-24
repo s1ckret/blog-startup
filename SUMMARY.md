@@ -4,7 +4,8 @@
 
 ## 💡 Ideas
 
-* [🏙 Family Archive (Closed)](ideas/family-archive-closed/README.md)
+* [🏙 Family Archive (Closed)](ideas/family-archive/README.md)
+  * [Lean Validation Board - Idea stage](ideas/family-archive-closed/lean-validation-board-idea-stage.md)
   * [Keyword research](ideas/family-archive-closed/keyword-research.md)
   * [Why this didn't work out](ideas/family-archive-closed/why-this-didnt-work-out.md)
   * [1. Defining business idea](ideas/family-archive-closed/1.-defining-business-idea.md)

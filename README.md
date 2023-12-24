@@ -10,7 +10,7 @@ This blog is about my startup ideas, progress, and my journey. It also contains 
 
 ### My ideas
 
-* [family-archive-closed](ideas/family-archive-closed/ "mention")
+* [family-archive](ideas/family-archive/ "mention")
 
 ### Startup events
 
