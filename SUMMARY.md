@@ -5,6 +5,7 @@
 ## 💡 Ideas
 
 * [🏙 Family Archive (Closed)](ideas/family-archive-closed/README.md)
+  * [Keyword research](ideas/family-archive-closed/keyword-research.md)
   * [Why this didn't work out](ideas/family-archive-closed/why-this-didnt-work-out.md)
   * [1. Defining business idea](ideas/family-archive-closed/1.-defining-business-idea.md)
   * [2. Market analysis & ICP](ideas/family-archive-closed/2.-market-analysis-and-icp.md)
