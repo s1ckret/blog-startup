@@ -4,15 +4,15 @@
 
 ## 💡 Ideas
 
-* [🏙 Family Archive](ideas/family-archive/README.md)
-  * [Customer interviews](ideas/family-archive/customer-interviews/README.md)
-    * [23.10.2023 - Mom](ideas/family-archive/customer-interviews/23.10.2023-mom.md)
-    * [23.10.2023 - Aunt](ideas/family-archive/customer-interviews/23.10.2023-aunt.md)
-  * [Pivot ideas](ideas/family-archive/pivot-ideas.md)
-  * [Startup School tasks](ideas/family-archive/startup-school-tasks/README.md)
-    * [1. Defining business idea](ideas/family-archive/startup-school-tasks/1.-defining-business-idea.md)
-    * [2. Market analysis & ICP](ideas/family-archive/startup-school-tasks/2.-market-analysis-and-icp.md)
-    * [3. Customer development](ideas/family-archive/startup-school-tasks/3.-customer-development.md)
+* [🏙 Family Archive (Closed)](ideas/family-archive-closed/README.md)
+  * [Why this didn't work out](ideas/family-archive-closed/why-this-didnt-work-out.md)
+  * [1. Defining business idea](ideas/family-archive-closed/1.-defining-business-idea.md)
+  * [2. Market analysis & ICP](ideas/family-archive-closed/2.-market-analysis-and-icp.md)
+  * [3. Customer development](ideas/family-archive-closed/3.-customer-development.md)
+  * [Customer interviews](ideas/family-archive-closed/customer-interviews/README.md)
+    * [23.10.2023 - Mom](ideas/family-archive-closed/customer-interviews/23.10.2023-mom.md)
+    * [23.10.2023 - Aunt](ideas/family-archive-closed/customer-interviews/23.10.2023-aunt.md)
+  * [Pivot ideas](ideas/family-archive-closed/pivot-ideas.md)
 
 ## 🤝 Events
 
